@@ -12,15 +12,16 @@ Bu repo doğrudan Obsidian ile kullanılmak üzere tasarlanmıştır.
 https://obsidian.md adresinden ücretsiz olarak indir ve kur.
 2. Repoyu indir
 3. Obsidian'de aç
-Obsidian'i başlat → Open folder as vault → indirdiğin klasörü seç → Aç.
+Obsidian'i başlat → Open folder as vault → indirdiğin klasörü seç → Aç
 veya indiriğin repoyu C:\Users\kullanıcı adı\Documents\Obsidian Vault dizinine direk yapıştırabilirsin.
 
 
-CTRL + P → "Mindmap NextGen: Open pinned mindmap" seçilerek mindmap görüntülenebilir.
+* CTRL + P → "Mindmap NextGen: Open pinned mindmap" seçilerek mindmap görüntülenebilir.
 
 
 
 https://github.com/user-attachments/assets/7609fd66-784c-45a4-a81c-dc556410d567
 
 📌 Not
-Bu bilgi tabanı aktif olarak geliştirilmektedir. Yeni saldırı senaryoları ve playbook'lar eklendikçe güncellenecektir.
+* Sadece Siber güvenlik değil Başa meslek guruplarına göre revize edilebilir.
+* Bu bilgi tabanı aktif olarak geliştirilmektedir. 
