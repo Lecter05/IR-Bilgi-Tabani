@@ -13,7 +13,7 @@ https://obsidian.md adresinden ücretsiz olarak indir ve kur.
 2. Repoyu indir
 3. Obsidian'de aç
 Obsidian'i başlat → Open folder as vault → indirdiğin klasörü seç → Aç
-veya indiriğin repoyu C:\Users\kullanıcı adı\Documents\Obsidian Vault dizinine direk yapıştırabilirsin.
+veya indirdiğin repoyu C:\Users\kullanıcı adı\Documents\Obsidian Vault dizinine direk yapıştırabilirsin.
 
 
 * CTRL + P → "Mindmap NextGen: Open pinned mindmap" seçilerek mindmap görüntülenebilir.
@@ -23,5 +23,5 @@ veya indiriğin repoyu C:\Users\kullanıcı adı\Documents\Obsidian Vault dizini
 https://github.com/user-attachments/assets/7609fd66-784c-45a4-a81c-dc556410d567
 
 📌 Not
-* Sadece Siber güvenlik değil Başa meslek guruplarına göre revize edilebilir.
+* Sadece Siber güvenlik değil başka meslek guruplarına göre revize edilebilir.
 * Bu bilgi tabanı aktif olarak geliştirilmektedir. 
