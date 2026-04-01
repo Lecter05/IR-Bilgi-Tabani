@@ -29,4 +29,3 @@ Konum: `Microsoft > Windows > TaskScheduler`
 - Görev adı sistem adına benzemeye çalışıyor
 - Action içinde **PowerShell -EncodedCommand**
 - Çalışma dizini `%TEMP%` veya kullanıcı klasörü
-
